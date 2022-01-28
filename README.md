@@ -1,2 +1,2 @@
-# OCSVM
-異常検知
+# OCSVMおよびSGDOCSVMを利用
+異常検知を使った研究
